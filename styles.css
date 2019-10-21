@@ -1,0 +1,23 @@
+body {
+    color:yellowgreen;
+}
+
+.navbar {
+    padding 1rem;
+    background-color: blue;
+  }
+
+  
+  .btn-primary:hover {
+    background-color: red;
+    color: white;
+  }
+
+  .hero-background-img {
+    background-image: url("/Users/xin/makeSchool/spd 1.2/launch-page/ishan-seefromthesky-2d7n2sfYjHY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
